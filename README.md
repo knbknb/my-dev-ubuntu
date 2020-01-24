@@ -1,6 +1,6 @@
 # TO DO :point_right:  The Vagrant file has not fully been updated yet!
 
-... and the helper shell-scripts have not beeen touched either. Coming soon...
+... and the helper scripts have not beeen touched either. Coming soon...
 
 ## my-ubuntu1804-4dev
 
