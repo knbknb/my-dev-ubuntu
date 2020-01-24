@@ -8,8 +8,11 @@ This is a `Vagrantfile` for the base box configured in my [knbknb/ubuntu1804-4de
 
 ### Requisites
 
-- VirtualBox ([download](https://www.virtualbox.org/wiki/Downloads)) - a free and open-source hosted hypervisor for x86 virtualization
-- Vagrant ([download](https://www.vagrantup.com/downloads.html)) - for building and maintaining portable virtual software development environments
+- VirtualBox ([download, 90 MB](https://www.virtualbox.org/wiki/Downloads)) - a free and open-source hosted hypervisor for x86 virtualization
+- Vagrant ([download, 40MB](https://www.vagrantup.com/downloads.html)) - for building and maintaining portable virtual software development environments
+
+- Disk space: Enough free space on your hard disk. Vagrant will download a 3.4 GB Ubuntu image from the Vagrant Cloud, and cache it in directory `$HOME/.vagrant/images`, and it will create a working copy from that image (so you need at least 2 * 3.4 = 6.8GB)
+- Network resources: Enough network bandwidth and enough download capacity remaining (if you are on a mobile plan)
 
 #### Usage
 
