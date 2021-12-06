@@ -1,6 +1,6 @@
 # my-ubuntu1804-4dev
 
-This is a `Vagrantfile` for the base box configured in my [knbknb/dev-ubuntu](https://github.com/knbknb/dev-ubuntu) Github-repo.
+This repo cntains only a single file of interest, a `Vagrantfile` for the VirtualBox configured in my [knbknb/dev-ubuntu](https://github.com/knbknb/dev-ubuntu) Github-repo.
 
 ## TO DO :point_right:  The Vagrantfile has not fully been updated for my needs yet!
 
